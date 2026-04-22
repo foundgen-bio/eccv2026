@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://foundgen-bio.github.io/eccv2026/sitemap.xml
