@@ -58,7 +58,7 @@ The **Third Workshop on Foundation and Generative Models in Biometrics** at [ECC
 
 
 ## Technical Program Committee
-**Call for Reviewers:** If you are interested in contributing to our paper review process, please complete the [sign-up form](https://forms.gle/H4yky8jJyd5dmyiM7). We will publicly acknowledge our program committee members. Your expertise and time dedicated to this effort are greatly appreciated and crucial to the success of the workshop.
+**Call for Reviewers:** If you are interested in contributing to our paper review process, please complete the [sign-up form](https://forms.gle/H4yky8jJyd5dmyiM7). Similar to the [previous editions of the workshop](https://foundgen-bio.github.io/), we will publicly acknowledge our program committee members. Your expertise and time dedicated to this effort are greatly appreciated and crucial to the success of the workshop.
 
 ## Contact
 If you have any questions, please contact [hatef.otroshi@idiap.ch](mailto:hatef.otroshi@idiap.ch?subject=Inquiry%20about%20ECCV%202026%20Workshop%20on%20Foundation%20and%20Generative%20Models%20in%20Biometrics).
