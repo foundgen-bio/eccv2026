@@ -42,7 +42,7 @@ The **Third Workshop on Foundation and Generative Models in Biometrics** at [ECC
       </div>
       
       <div class="col-sm-4">
-          {% include people.html name="Wen-Sheng Chu" affiliation="Google" url="https://scholar.google.com/citations?user=R-OrlSgAAAAJ" img="/assets/img/speakers/WenShengChu.jpg" %}
+          {% include people.html name="Wen-Sheng Chu" affiliation="Google" url="https://scholar.google.com/citations?user=R-OrlSgAAAAJ" img="/assets/img/speakers/WenShengChu.jpeg" %}
       </div>
       
   </div>
