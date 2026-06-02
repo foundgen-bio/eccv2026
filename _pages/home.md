@@ -41,6 +41,10 @@ The **Third Workshop on Foundation and Generative Models in Biometrics** at [ECC
           {% include people.html name="Jiankang Deng" affiliation="Imperial College London" url="https://scholar.google.com/citations?user=Z_UoQFsAAAAJ" img="/assets/img/speakers/JiankangDeng.jpg" %}
       </div>
       
+      <div class="col-sm-4">
+          {% include people.html name="Wen-Sheng Chu" affiliation="Google" url="https://scholar.google.com/citations?user=R-OrlSgAAAAJ" img="/assets/img/speakers/WenShengChu.jpg" %}
+      </div>
+      
   </div>
 
 
