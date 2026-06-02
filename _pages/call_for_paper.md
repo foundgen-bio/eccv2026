@@ -39,8 +39,7 @@ OpenReview author instructions can be found [here](https://eccv.ecva.net/Confere
 
 
 ## Submission Process
-All submissions should be made through the workshop's OpenReview portal. The submission will open soon. Please check back later for the submission link.
-
+All submissions should be made through the workshop’s OpenReview portal: [https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/FoundGen-Bio](https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/FoundGen-Bio)
 
 ## Important Dates 
 - Submission deadline: July 10, 2026
