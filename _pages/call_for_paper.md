@@ -27,7 +27,7 @@ Topics of interest include but are not limited to:
 ## Submission Guidelines
 **Paper formatting:** Papers are limited to 14 pages, including figures and tables, in the ECCV 2026 style (LNCS style of Springer). Additional pages containing only cited references are allowed. Please download the [ECCV 2026 Submission Template](https://www.overleaf.com/read/fkngkknmbycc#8e2acb) for detailed formatting instructions.
 
-Papers that are not properly anonymized, or do not use the template, or have more than eight pages (excluding references) will be rejected without review.
+Papers that are not properly anonymized, or do not use the template, or have more than 14 pages (excluding references) will be rejected without review.
 
 **Submission and review process:** Review process is double-blind. We will be using OpenReview to manage submissions. Similar to the review process for [ECCV 2026 conference](https://eccv.ecva.net/Conferences/2026), submissions under review will be visible only to their assigned members of the program committee. The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process. 
 
