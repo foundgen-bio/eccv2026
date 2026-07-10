@@ -42,7 +42,7 @@ OpenReview author instructions can be found [here](https://eccv.ecva.net/Confere
 All submissions should be made through the workshop’s OpenReview portal: [https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/FoundGen-Bio](https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/FoundGen-Bio)
 
 ## Important Dates 
-- Submission deadline: July 10, 2026
-- Paper notification: August 10, 2026
+- Submission deadline (**extended**): July 15, 2026
+- Paper notification: August 5, 2026
 - Camera-ready deadline: August 15, 2026
 - Workshop date: September 8/9, 2026 
