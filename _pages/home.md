@@ -23,7 +23,7 @@ socials:
 
 <!-- Welcome to ECCV 2026 Workshop on Foundation and Generative Models in Biometrics! -->
 
-September 8/9, 2026, Malmö, Sweden
+September 9, 2026, Malmö, Sweden
 
 ## Introduction
 Foundation models (such as CLIP, GPT, etc.) are extensively studied in different domains, including natural
