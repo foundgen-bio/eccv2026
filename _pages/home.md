@@ -69,19 +69,19 @@ The **Third Workshop on Foundation and Generative Models in Biometrics** at [ECC
 <div>Prasanth	Yadla (Independent Researcher)</div>
 <div>Chiara Galdi (EURECOM)</div>
 <div>Ajian Liu (Institute of Automation, CASIA)</div>
-<div>Alain Komaty (Idiap Research Institute)</div>
-<div>Parisa Farmanifard (Michigan State University)</div>
 <div>Christian Rathgeb (Hochschule Darmstadt)</div>
+<div>Ünsal Öztürk (Idiap Research Institute)</div>
 <div>Marco Huber (Fraunhofer IGD)</div>
+<div>Parisa Farmanifard (Michigan State University)</div>
+<div>Alain Komaty (Idiap Research Institute)</div>
 <div>Noor Hazim Hussein (Michigan State University)</div>
 <div>Žiga Babnik (University of Ljubljana)</div>
-<div>Vidit Vidit (Idiap Research Institute)</div>
 <div>Lazaro Janier Gonzalez-Soler (Hochschule Darmstadt)</div>
-<div>Ünsal Öztürk (Idiap Research Institute)</div>
 <div>Tahar Chettaoui (Fraunhofer IGD)</div>
+<div>Vidit Vidit (Idiap Research Institute)</div>
 <div>Andrea Atzori (Fraunhofer IGD)</div>
-<div>Peter Lorenz (Idiap Research Institute)</div>
 <div>Emanuele Maiorana (Roma Tre University)</div>
+<div>Peter Lorenz (Idiap Research Institute)</div>
 <div>Daniel Moreira (Loyola University Chicago)</div>
 <div>Ana F. Sequeira (Universidade do Porto)</div>
 <div>Juan E. Tapia (Hochschule Darmstadt)</div>
