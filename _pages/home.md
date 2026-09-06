@@ -62,7 +62,47 @@ The **Third Workshop on Foundation and Generative Models in Biometrics** at [ECC
 
 
 ## Technical Program Committee
-**Call for Reviewers:** If you are interested in contributing to our paper review process, please complete the [sign-up form](https://forms.gle/H4yky8jJyd5dmyiM7). Similar to the [previous editions of the workshop](https://foundgen-bio.github.io/), we will publicly acknowledge our program committee members. Your expertise and time dedicated to this effort are greatly appreciated and crucial to the success of the workshop.
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px 40px;">
+<div>Varun Jain (Microsoft)</div>
+<div>Naser Damer (Fraunhofer IGD)</div>
+<div>Adams Wai-Kin Kong (Nanyang Technological University)</div>
+<div>Prasanth	Yadla (Independent Researcher)</div>
+<div>Chiara Galdi (EURECOM)</div>
+<div>Ajian Liu (Institute of Automation, CASIA)</div>
+<div>Alain Komaty (Idiap Research Institute)</div>
+<div>Parisa Farmanifard (Michigan State University)</div>
+<div>Christian Rathgeb (Hochschule Darmstadt)</div>
+<div>Marco Huber (Fraunhofer IGD)</div>
+<div>Noor Hazim Hussein (Michigan State University)</div>
+<div>Žiga Babnik (University of Ljubljana)</div>
+<div>Vidit Vidit (Idiap Research Institute)</div>
+<div>Lazaro Janier Gonzalez-Soler (Hochschule Darmstadt)</div>
+<div>Ünsal Öztürk (Idiap Research Institute)</div>
+<div>Tahar Chettaoui (Fraunhofer IGD)</div>
+<div>Andrea Atzori (Fraunhofer IGD)</div>
+<div>Peter Lorenz (Idiap Research Institute)</div>
+<div>Emanuele Maiorana (Roma Tre University)</div>
+<div>Daniel Moreira (Loyola University Chicago)</div>
+<div>Ana F. Sequeira (Universidade do Porto)</div>
+<div>Juan E. Tapia (Hochschule Darmstadt)</div>
+<div>Ahmad Hassanpour (NTNU)</div>
+<div>Raghavendra Ramachandra (NTNU)</div>
+<div>Sudipta Banerjee (New York University)</div>
+<div>Jeongmin Yu (Yonsei University)</div>
+<div>Davide Cozzolino (University of Naples Federico II)</div>
+<div>Basudha Pal (Johns Hopkins University)</div>
+<div>Qi Song (Hong Kong Baptist University)</div>
+<div>Junghyun Cho (Korea Institute of Science and Technology)</div>
+<div>Harkeerat Kaur (IIT Jammu)</div>
+<div>Cunjian Chen (Monash University)</div>
+<div>Emanuela Marasco (Virginia Commonwealth University)</div>
+<div>Nicolò Di Domenico (University of Bologna)</div>
+<div>Shiqi Yu (Southern University of Science and Technology)</div>
+<div>Fernando Alonso-Fernandez (Halmstad University)</div>
+<div>Svetlana Yanushkevich (University of Calgary)</div>
+<br>
+</div>
+
 
 ## Contact
 If you have any questions, please contact [hatef.otroshi@idiap.ch](mailto:hatef.otroshi@idiap.ch?subject=Inquiry%20about%20ECCV%202026%20Workshop%20on%20Foundation%20and%20Generative%20Models%20in%20Biometrics).
