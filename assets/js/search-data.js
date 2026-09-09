@@ -68,6 +68,9 @@ ninja.data = [{
             },},{id: "news-workshop-program-is-out",
           title: 'Workshop program is out!',
           description: "",
+          section: "News",},{id: "news-accepted-papers-are-now-available-on-openreview",
+          title: 'Accepted papers are now available on OpenReview!',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
